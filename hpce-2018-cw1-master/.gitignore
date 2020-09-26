@@ -1,0 +1,10 @@
+*.bin
+*.exe
+*.mp4
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+bin/
+working/
